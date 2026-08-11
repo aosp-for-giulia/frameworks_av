@@ -143,6 +143,7 @@ cc_library {
         "common/CameraOfflineSessionBase.cpp",
         "common/CameraProviderExtension.cpp",
         "common/CameraProviderManager.cpp",
+        "common/OPlusVendorTags.cpp",
         "common/FrameProcessorBase.cpp",
         "common/hidl/HidlProviderInfo.cpp",
         "common/aidl/AidlProviderInfo.cpp",
